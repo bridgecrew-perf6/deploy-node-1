@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/deploy-rest/deploy-node/issues",
+  "description": "Pending",
+  "homepage": "https://github.com/deploy-rest/deploy-node",
+  "keywords": [],
+  "license": "ISC",
+  "main": "lib/deploy.js",
+  "name": "deploy-rest",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deploy-rest/deploy-node.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha"
+}
